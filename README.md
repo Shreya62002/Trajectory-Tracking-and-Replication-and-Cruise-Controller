@@ -12,3 +12,18 @@ Drag Coefficient(b) = 25
 Desired Velocity(v) = 60 m/s
 ![cruise](https://user-images.githubusercontent.com/102024497/229163195-b32ecaf5-13cf-4fd9-9cd7-89fd52b1476b.png)
 
+# 1D Trajectory Control
+
+## Hover Control
+![hover_controls](https://user-images.githubusercontent.com/102024497/229165449-9595f65b-ab0c-465b-8ef1-8be104c9d8cf.jpeg)
+
+## Step Response
+![step_responses](https://user-images.githubusercontent.com/102024497/229165508-7094bb5e-90b3-4e24-a1c0-90eba1f450e4.jpeg)
+
+# 2D Trajectory Control
+
+## Line Trajectory
+![lineeee](https://user-images.githubusercontent.com/102024497/229166063-888c8d82-709b-4326-9f1b-db023c3f8eb8.jpeg)
+
+## Sine Trajectory
+![sineeee](https://user-images.githubusercontent.com/102024497/229166242-c75ba646-cefd-4fa7-b5a0-e72a936d5f91.jpeg)
