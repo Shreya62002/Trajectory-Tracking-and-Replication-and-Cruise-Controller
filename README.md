@@ -33,3 +33,11 @@ Maximum overshoot is 2.82%.
 
 ## Sine Trajectory
 ![sineeee](https://user-images.githubusercontent.com/102024497/229166242-c75ba646-cefd-4fa7-b5a0-e72a936d5f91.jpeg)
+
+#3D Control
+
+##Helical Path
+![3D](https://user-images.githubusercontent.com/102024497/229201846-0304ada4-87a2-4bf1-a3c5-4cbce0c582ad.png)
+
+
+
