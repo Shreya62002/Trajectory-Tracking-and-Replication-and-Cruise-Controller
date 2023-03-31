@@ -12,6 +12,10 @@ Drag Coefficient(b) = 25
 Desired Velocity(v) = 60 m/s
 ![cruise](https://user-images.githubusercontent.com/102024497/229163195-b32ecaf5-13cf-4fd9-9cd7-89fd52b1476b.png)
 
+## Results
+Rise time of the system(time taken to reach 90% of the target velocity) = 1.12 seconds
+Maximum overshoot is 2.82%.
+
 # 1D Trajectory Control
 
 ## Hover Control
