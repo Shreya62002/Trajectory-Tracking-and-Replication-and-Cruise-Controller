@@ -11,5 +11,6 @@ Mass(m) = 50 kg
 Drag Coefficient(b) = 25
 Desired Velocity(v) = 60 m/s
 
-![image](https://user-images.githubusercontent.com/102024497/229162263-9417258c-a56f-4610-8476-d6cc01b999cd.png)
 
+
+![cruise](https://user-images.githubusercontent.com/102024497/229163195-b32ecaf5-13cf-4fd9-9cd7-89fd52b1476b.png)
