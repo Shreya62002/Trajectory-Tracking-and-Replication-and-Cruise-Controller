@@ -10,6 +10,5 @@ Thus the motion of the car can be written as:
 Mass(m) = 50 kg
 Drag Coefficient(b) = 25
 Desired Velocity(v) = 60 m/s
+![cruise](https://user-images.githubusercontent.com/102024497/229163195-b32ecaf5-13cf-4fd9-9cd7-89fd52b1476b.png)
 
-
-<img src="![cruise](https://user-images.githubusercontent.com/102024497/229163195-b32ecaf5-13cf-4fd9-9cd7-89fd52b1476b.png)" width="50%" height="50%" />
